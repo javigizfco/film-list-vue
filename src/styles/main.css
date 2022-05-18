@@ -1,0 +1,21 @@
+html {
+  font: 62.5% / 1.15 sans-serif;
+}
+
+body {
+  box-sizing: border-box;
+  width: 100%;
+  margin: 0 auto;
+  font: 1.6rem/1.25 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #171a21;;
+  color: #f0ede9;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  padding: 1.50rem 2rem;
+}
+@media screen and (min-width: 620px) {
+  body {
+    font-size: 1.9rem;
+    line-height: 1.31579;
+  }
+}
